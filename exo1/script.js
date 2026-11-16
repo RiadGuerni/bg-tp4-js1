@@ -1,6 +1,5 @@
 "use strict";
 
-// Les chaines et les nombres sont des types primitifs (slide 38).
 // const permet de declarer les constantes (slide 52).
 const nom = "John";
 const prenom = "Doe";
